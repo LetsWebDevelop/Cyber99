@@ -1,21 +1,31 @@
 {
-    "name": "cyber99",
-    "displayName": "Cyber99",
-    "description": "Cyberpunk theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.64.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Cyber99",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Cyber99-color-theme.json"
-            }
-        ]
-    }
+  "name": "cyber99",
+  "displayName": "Cyber99",
+  "description": "Cyberpunk theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "icon": "icons/cyber99.png",
+  "author": {
+    "name": "Max Hoogland",
+    "email": "info@letswebdevelop.com",
+    "url": "https://www.linkedin.com/in/max-philippus-hoogland/"
+  },
+  "repository": {
+    "url": "https://github.com/LetsWebDevelop/Cyber99",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyber99",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyber99-color-theme.json"
+      }
+    ]
+  }
 }
