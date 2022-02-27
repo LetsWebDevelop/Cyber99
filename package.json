@@ -7,6 +7,7 @@
     "vscode": "^1.64.0"
   },
   "icon": "icons/cyber99.png",
+  "publisher": "LetsWebDevelop",
   "author": {
     "name": "Max Hoogland",
     "email": "info@letswebdevelop.com",
