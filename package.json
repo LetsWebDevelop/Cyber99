@@ -2,7 +2,7 @@
   "name": "cyber99",
   "displayName": "CYBER99",
   "description": "Cyberpunk Theme, get that real synthwave feel",
-  "version": "0.0.99",
+  "version": "0.1.99",
   "engines": {
     "vscode": "^1.64.0"
   },
