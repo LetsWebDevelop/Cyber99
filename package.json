@@ -1,8 +1,8 @@
 {
   "name": "cyber99",
-  "displayName": "Cyber99",
+  "displayName": "CYBER99",
   "description": "Cyberpunk theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.64.0"
   },
@@ -23,7 +23,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cyber99",
+        "label": "CYBER99",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyber99-color-theme.json"
       }
