@@ -12,7 +12,7 @@
     "editor.inactiveSelectionBackground": "#3a3d41",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editorBracketHighlight.foreground1": "#00f7ff",
-    "editorBracketHighlight.foreground2": "#07ff51",
+    "editorBracketHighlight.foreground2": "#39da19",
     "editorBracketHighlight.foreground3": "#ff5370",
     "editorBracketHighlight.foreground4": "#ee0667",
     "editorBracketHighlight.foreground5": "#ff3300",
@@ -585,7 +585,8 @@
     {
       "scope": ["entity.name.type", "variable.other.readwrite.alias", "support.type.primitive"],
       "settings": {
-        "foreground": "#EE0667"
+        "foreground": "#EE0667",
+        "fontStyle": ""
       }
     },
     {
@@ -599,7 +600,7 @@
       "scope": ["variable.other.property", "meta.object-literal.key", "meta.object.member", "meta.objectliteral"],
       "settings": {
         "foreground": "#FF5370",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -618,7 +619,7 @@
       ],
       "settings": {
         "foreground": "#07FFA0",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -644,7 +645,7 @@
       "scope": ["support.variable"],
       "settings": {
         "foreground": "#FF5370",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -702,14 +703,14 @@
       "scope": "entity.name.function.member",
       "settings": {
         "foreground": "#FF5370",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
       "scope": ["entity.name.function", "variable.function", "support.function", "keyword.other.special-method"],
       "settings": {
-        "foreground": "#BAE060",
-        "fontStyle": "bold"
+        "foreground": "#39DA19",
+        "fontStyle": ""
       }
     },
     {
@@ -727,7 +728,8 @@
     {
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#AE70C1"
+        "foreground": "#FF3300",
+        "fontStyle": ""
       }
     },
     {
@@ -742,7 +744,7 @@
       ],
       "settings": {
         "foreground": "#00F7FF",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -757,7 +759,7 @@
       ],
       "settings": {
         "foreground": "#B336FC",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -773,26 +775,13 @@
       ],
       "settings": {
         "foreground": "#EE0667",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
       "scope": "support.class.component",
       "settings": {
         "foreground": "#FF5370"
-      }
-    },
-    {
-      "scope": [
-        "source.css support.type.property-name",
-        "source.sass support.type.property-name",
-        "source.scss support.type.property-name",
-        "source.less support.type.property-name",
-        "source.stylus support.type.property-name",
-        "source.postcss support.type.property-name"
-      ],
-      "settings": {
-        "foreground": "#71DD7A"
       }
     },
     {
@@ -825,7 +814,7 @@
       "scope": ["entity.other.attribute-name"],
       "settings": {
         "foreground": "#EE0667",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -836,9 +825,43 @@
       }
     },
     {
-      "scope": ["entity.other.attribute-name.class"],
+      "scope": [
+        "source.css support.type.property-name",
+        "source.sass support.type.property-name",
+        "source.scss support.type.property-name",
+        "source.less support.type.property-name",
+        "source.stylus support.type.property-name",
+        "source.postcss support.type.property-name",
+        "support.type.vendored.property-name.css"
+      ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#FF5370"
+      }
+    },
+    {
+      "scope": "keyword.other.important.css",
+      "settings": {
+        "foreground": "#EE0667"
+      }
+    },
+    {
+      "scope": [
+        "meta.property-value.css",
+        "meta.property.list.css",
+        "source.css",
+        "support.constant.font-name.css",
+        "support.constant.property-value.css",
+        "string.quoted.double.css"
+      ],
+      "settings": {
+        "foreground": "#C142E7",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["entity.name.tag.css"],
+      "settings": {
+        "foreground": "#EE0667"
       }
     },
     {

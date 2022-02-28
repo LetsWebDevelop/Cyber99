@@ -1,24 +1,36 @@
 {
   "name": "cyber99",
   "displayName": "CYBER99",
-  "description": "Cyberpunk theme",
-  "version": "0.0.5",
+  "description": "Cyberpunk Theme, get that real synthwave feel",
+  "version": "0.0.99",
   "engines": {
     "vscode": "^1.64.0"
   },
   "icon": "icons/cyber99.png",
   "publisher": "LetsWebDevelop",
+  "license": "MIT",
   "author": {
     "name": "Max Hoogland",
     "email": "info@letswebdevelop.com",
     "url": "https://www.linkedin.com/in/max-philippus-hoogland/"
   },
   "repository": {
-    "url": "https://github.com/LetsWebDevelop/Cyber99",
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/LetsWebDevelop/Cyber99"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Cyberpunk",
+    "Cyber",
+    "80's",
+    "90's",
+    "Synthwave",
+    "Punk",
+    "Colorful",
+    "Retro",
+    "Theme"
   ],
   "contributes": {
     "themes": [
