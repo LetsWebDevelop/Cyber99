@@ -2,6 +2,7 @@
 
 ## Get that real synthwave feel
 
+![CYBER99](icons/cyber99.png)
 ![Screenshot](icons/ScreenshotCYBER99.png)
 
 ### Install
