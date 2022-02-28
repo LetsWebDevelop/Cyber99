@@ -2,7 +2,7 @@
   "name": "cyber99",
   "displayName": "Cyber99",
   "description": "Cyberpunk theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.64.0"
   },
