@@ -4,7 +4,7 @@ All notable changes to the "cyber99" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.21.99]
+## [0.22.99]
 
 - Made some changes to the readme
 - Updated the installation guidelines

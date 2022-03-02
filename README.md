@@ -18,7 +18,7 @@
 
 ### Tip
 
-6.  For the best experience got to you settings.json file, and add these two lines:
+6.  For the best experience got to your settings.json file, and add these two lines:
 
         "editor.bracketPairColorization.enabled": true,
         "window.titleBarStyle": "custom"
