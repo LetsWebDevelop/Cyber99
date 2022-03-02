@@ -2,11 +2,12 @@
 
 ## This cyberpunk theme is hella gnarly ! It's much bodacious !
 
-![CYBER99](.github/images/cyber99.png)
+![cyber99](https://user-images.githubusercontent.com/82661467/156345399-d795056e-00f6-49c1-b96f-9c6ff5194043.png)
+
+
 
 ## Screenshot
-
-![Screenshot](.github/images/ScreenshotCYBER99.png)
+![Cyber99-demo](https://user-images.githubusercontent.com/82661467/156349335-e2dbb1ee-b15d-4541-85c3-ab45a7861135.png)
 
 ## Install
 
