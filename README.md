@@ -30,7 +30,7 @@
 
 Love it? Keep it! Hate it? Delete it!
 
-If you do love it, feel free to leave a review! [Leave a Review](https://marketplace.visualstudio.com/items?itemName=LetsWebDevelop.cyber99&ssr=false#review-details)
+If you do love it, feel free to [leave a review](https://marketplace.visualstudio.com/items?itemName=LetsWebDevelop.cyber99&ssr=false#review-details)!
 
 ## Contributing
 
