@@ -2,11 +2,11 @@
   "name": "cyber99",
   "displayName": "CYBER99",
   "description": "This cyberpunk theme is hella gnarly ! It's much bodacious !",
-  "version": "0.20.99",
+  "version": "0.21.99",
   "engines": {
     "vscode": "^1.64.0"
   },
-  "icon": "icons/cyber99.png",
+  "icon": "icons/cyber99Icon.png",
   "publisher": "LetsWebDevelop",
   "license": "MIT",
   "author": {
@@ -30,7 +30,16 @@
     "Punk",
     "Colorful",
     "Retro",
-    "Theme"
+    "Theme",
+    "Bodacious",
+    "Gnarly",
+    "Cyberpynk Theme",
+    "Futuristic",
+    "Old School",
+    "Dark",
+    "Dark-theme",
+    "Color-theme",
+    "Color"
   ],
   "contributes": {
     "themes": [
