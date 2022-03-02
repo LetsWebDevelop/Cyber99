@@ -20,8 +20,10 @@
 
 6.  For the best experience got to your settings.json file, and add these two lines:
 
+```
 "editor.bracketPairColorization.enabled": true,
 "window.titleBarStyle": "custom"
+```
 
 7.  Restart VSCode just to be sure :)
 8.  Enjoy!
