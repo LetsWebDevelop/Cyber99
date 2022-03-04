@@ -2287,7 +2287,7 @@
     {
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#00F7FF"
+        "foreground": "#07FFA0"
       }
     },
     {
