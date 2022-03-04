@@ -8,6 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - I only record major changes
 
+## [0.32.99]
+
+- Changed the git conflict foreground color to be a bit darker
+- Changed the active tab color to be a bit lighter
+
 ## [0.24.99]
 
 - Made some changes to the readme
