@@ -8,6 +8,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - I only record major changes
 
+## [0.33.99]
+
+- Made changes to .md file colors
+- Function color changed to a more fluorescent green/yellow
+- Brackets are in different order, looks better in my eyes
+
 ## [0.32.99]
 
 - Changed the git conflict foreground color to be a bit darker
