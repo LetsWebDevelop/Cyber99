@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - I only record major changes
 
+## [0.36.99]
+
+- Changed the CSS file colors
+
 ## [0.35.99]
 
 - Made changes to .md file colors
